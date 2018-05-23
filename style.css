@@ -1,0 +1,19 @@
+.container {
+  margin: 0 auto;
+  max-width: 1336px;
+  background: #dec1c1;
+  border-radius: 1%;
+}
+header {
+  text-align: center;
+  height: 50px;
+  padding: 50px;
+  font-size: 50px;
+
+}
+
+.group {
+  height: 150px;
+  padding: 20px 0;
+  text-align: center;
+}
