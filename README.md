@@ -1,3 +1,5 @@
+Grid file Explanation:
+
 .section
 splits up the page horizontally. You'll need a few of these to break up the content, and you can use them in your main wrapper, or within other divs.
 
